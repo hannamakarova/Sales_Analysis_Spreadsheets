@@ -1,7 +1,7 @@
 # Sales_Analysis_Spreadsheets
 Analysis of the company's sales in the global market: Trends, profits and efficiency of sales channels (2010-2017)
 
-This document provides an analysis of a dataset containing sales information for a company operating in the global market, selling products online and offline since 2010. A link to the file can be found here.
+This document provides an analysis of a dataset containing sales information for a company operating in the global market, selling products online and offline since 2010. A link to the file can be found here - https://docs.google.com/spreadsheets/d/e/2PACX-1vRwkj7_exAZfSt4yC8Li3eB5TJiWKk9aVuzUMqFLm4wpcb6wbm15JKRKMCYj3Yki_zB5GUUB3UIpEA9/pubhtml# 
 
 According to the data, 1,330 orders were made from 46 countries, with a total sales volume of 830,498 units of products. The average product price is $265, and the average quantity per order is 7,648 units. The average profit per order is $377,018, indicating high profitability, despite average order costs of $902,778. The average delivery time is 24.78 days, with a median of 25 days, showing variability in delivery times. Sales are evenly distributed between online (663 orders) and offline (667 orders) channels.
 
